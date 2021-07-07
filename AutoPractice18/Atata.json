@@ -1,0 +1,43 @@
+﻿{
+  "drivers": [
+    {
+      "type": "firefox",
+      "options": {
+        "arguments": [ "window-size=1600,900" ]
+      }
+    },
+    {
+      "type": "chrome",
+      "options": {
+        "arguments": [ "window-size=1600,900" ]
+      }
+    },
+    {
+      "type": "chrome",
+      "alias": "chrome-headless",
+      "options": {
+        "arguments": [ "window-size=1600,900" ]
+      }
+    }
+  ],
+  "AccountEmail": "admin@mail.com",
+  "AccountPassword": "abc123",
+  "culture": "en-US",
+  "useNUnitTestName": true,
+  "logNUnitError": true,
+  "verificationTimeout": 10,
+  "baseUrl": "https://coe-qa.github.io/",
+  "takeScreenshotOnNUnitError": false,
+  "logConsumers": [
+    {
+      "type": "nunit",
+      "minLevel": "Info",
+      "sectionFinish": false
+    },
+    {
+      "type": "nlog",
+      "minLevel": "Trace",
+      "sectionFinish": false
+    }
+  ]
+}

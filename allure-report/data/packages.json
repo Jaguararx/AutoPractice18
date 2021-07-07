@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "AutoPractice18.Tests.UserTests",
+    "children" : [ {
+      "name" : "UsersTes",
+      "uid" : "7b0b06d77639d4fe",
+      "parentUid" : "5347e659a8a848e52cf230c2f01be2b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623424204231,
+        "stop" : 1623424225426,
+        "duration" : 21195
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "AutoPractice18.Tests.UserTests"
+  } ]
+}

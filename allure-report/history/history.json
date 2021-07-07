@@ -1,0 +1,21 @@
+{
+  "AutoPractice18.Tests.UserTests.UsersTes" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7b0b06d77639d4fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623424204231,
+        "stop" : 1623424225426,
+        "duration" : 21195
+      }
+    } ]
+  }
+}

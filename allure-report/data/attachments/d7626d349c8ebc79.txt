@@ -1,0 +1,11 @@
+2021-06-11 18:10:04.3835  INFO Starting test: UsersTes
+2021-06-11 18:10:08.4578  INFO Go to "Sign In" page
+2021-06-11 18:10:08.8320  INFO Go to URL "https://coe-qa.github.io/#/signin"
+2021-06-11 18:10:11.9196  INFO Set "admin@mail.com" to "Email" text input
+2021-06-11 18:10:13.5649  INFO Set "abc123" to "Password" password input
+2021-06-11 18:10:14.0895  INFO Click "Sign In" button
+2021-06-11 18:10:14.4000  INFO Go to "Users" page
+2021-06-11 18:10:14.5580  INFO Assert: "Users" <h1> heading should exist
+2021-06-11 18:10:23.8350  INFO Clean up AtataContext
+2021-06-11 18:10:25.3929  INFO Finished test (21.028s)
+2021-06-11 18:10:25.3979  INFO Pure test execution time: 15.469s

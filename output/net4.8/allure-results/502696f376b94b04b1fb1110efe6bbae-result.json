@@ -1,0 +1,71 @@
+{
+  "uuid": "90923f6c-1f0d-47f3-a4b7-1953445cf1af-tr-0-1003",
+  "historyId": "AutoPractice18.Tests.UserTests.UsersTes",
+  "fullName": "AutoPractice18.Tests.UserTests.UsersTes",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "CP116"
+    },
+    {
+      "name": "testClass",
+      "value": "AutoPractice18.Tests.UserTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UsersTes"
+    },
+    {
+      "name": "package",
+      "value": "AutoPractice18.Tests.UserTests"
+    },
+    {
+      "name": "suite",
+      "value": "Users"
+    },
+    {
+      "name": "parentSuite",
+      "value": "UI Tests"
+    }
+  ],
+  "links": [],
+  "name": "UsersTes",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "UsersTes",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "6d936ab6b4214d5e9bf097d68b68ad86-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1625653608861,
+      "stop": 1625653616944
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1625653608860,
+  "stop": 1625653616949
+}

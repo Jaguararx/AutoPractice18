@@ -1,0 +1,44 @@
+{
+  "uuid": "9d53f9ad-585e-4e04-acc1-fdb9a7db7783-tc-0-1002",
+  "name": "AutoPractice18.Tests.UserTests.UsersTes",
+  "children": [
+    "6d22f034-3c12-4147-89d9-58ae92293ed1-tr-0-1003"
+  ],
+  "befores": [
+    {
+      "name": "SetUpEachTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1623424225410,
+      "stop": 1623424225410
+    }
+  ],
+  "afters": [
+    {
+      "name": "TearDown",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1623424225411,
+      "stop": 1623424225411
+    }
+  ],
+  "links": [],
+  "start": 1623424204216,
+  "stop": 1623424225447
+}

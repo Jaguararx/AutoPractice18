@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "CP116",
+    "children" : [ {
+      "name" : "17",
+      "children" : [ {
+        "name" : "UsersTes",
+        "uid" : "7b0b06d77639d4fe",
+        "parentUid" : "e8f19a44f5f9ee91caa1c4e6e6c77ff2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623424204231,
+          "stop" : 1623424225426,
+          "duration" : 21195
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e8f19a44f5f9ee91caa1c4e6e6c77ff2"
+    } ],
+    "uid" : "77ba09922a12d5eaf87be7eb2b87bf0f"
+  } ]
+}
